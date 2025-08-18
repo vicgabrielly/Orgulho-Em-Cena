@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+}
+
+.navbar_cor {
+    background-color: #e9e357;
+}
+
+.navbar_cor a{
+
+   color: rgb(0, 0, 0);
+   text-decoration: none;
+    padding-right: 80px;}
+
+.test1{
+    background-color: #e9e357;
+    height: 100vh;
+}
+
+
+.test2{
+    background-color: #ff7029;
+    height: 100vh;
+}
+
+
+.test3{
+    background-color: #ff7029;
+    height: 100vh;
+}

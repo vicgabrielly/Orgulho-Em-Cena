@@ -21,7 +21,7 @@ html, body {
 
 
 .test2{
-    background-color: #e9e357;
+    background-color: #ff66c4;
     height: 100vh;
 }
 
@@ -36,5 +36,25 @@ html, body {
 }
 
 .text01{
-    margin-top: 100px;
+  margin-left: 120px;
+  margin-right: 150px;
+}
+
+.picturelogo01{
+    margin-top: 60px;
+    
+}
+
+.banner1{
+    margin-right: 70px;
+    height: 60vh;
+}
+
+.button01{
+    margin-left: 160px;
+    margin-top: 50px;
+    height: 20%;
+}
+.text2{
+    margin-left: 100px;
 }

@@ -22,14 +22,22 @@ html, body {
 
 .test2{
     background-color: #ff66c4;
-    height: 160vh;
+    height: 120vh;
 }
 
 
 .test3{
     background-color: #ff7029;
-    height: 160vh;
+    height: 120vh;
 }
+
+.test4{
+    background-color: #8c1f9e;
+    height: 120vh;
+    align-items: center;
+
+}
+
 
 .tela01{
     background-color: ;
@@ -62,4 +70,17 @@ html, body {
     margin-left: 90px;
     margin-top: 50px;
     height: 20%;
+}
+
+.imgpag3{
+    margin-top: 40px;
+}
+
+.carousel-item{
+    height: 30%;
+}
+
+.text3{
+ align-items: center;
+
 }

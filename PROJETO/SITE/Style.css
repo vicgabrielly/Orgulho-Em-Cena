@@ -84,3 +84,15 @@ html, body {
  align-items: center;
 
 }
+
+
+.top11{
+    background-color: #fde8b3;
+    height: 60px;
+    padding: 40px;
+}
+
+.rodape{
+    background-color: #004aad;
+    height: 60vh;
+}

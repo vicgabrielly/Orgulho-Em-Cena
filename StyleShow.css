@@ -2,17 +2,17 @@
     text-align: center;
     }
     .carrosel{
-    background-color: #8c1f9e;
+    background-color: #FFC067;
     height: 160vh;
     align-items: center;
 
 }
 
 .letter{
-    color: #ffffff;
+    color: #000000;
 }
 
 .rodape{
-    background-color: #004aad;
+    background-color: #ff7029;
     height: 60vh;
 }

@@ -37,7 +37,7 @@ html, body {
 }
 
 .test4{
-    background-color: #8c1f9e;
+    background-color: #a13db3;
     height: 110vh;
     align-items: center;
 
@@ -51,7 +51,7 @@ html, body {
 .text01{
   margin-left: 120px;
   margin-right: 150px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .picturelogo01{
@@ -71,7 +71,7 @@ html, body {
 }
 .text2{
     margin-left: 100px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .button02{
     margin-left: 90px;
@@ -89,7 +89,7 @@ html, body {
 
 .text3{
  align-items: center;
- font-family: 'Times New Roman', Times, serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
